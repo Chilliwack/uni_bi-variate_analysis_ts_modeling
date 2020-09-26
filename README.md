@@ -25,4 +25,4 @@ Data Exploration Process:
 10. Synthesize/write up results telling a story about the data that attempts to answer the question
 11. Create reproducible code
 
-Please see the [notebook](https://github.com/Chilliwack/uni_bi-variate_analysis_ts_modeling) for further details: https://github.com/Chilliwack/uni_bi-variate_analysis_ts_modeling.ipynb
+Please see the [notebook](https://github.com/Chilliwack/uni_bi-variate_analysis_ts_modeling/blob/master/uni_bi-variate_analysis_ts_modeling.ipynb) for further details: https://github.com/Chilliwack/uni_bi-variate_analysis_ts_modeling/blob/master/uni_bi-variate_analysis_ts_modeling.ipynb
