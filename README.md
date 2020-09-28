@@ -1,6 +1,6 @@
 # uni_bi-variate_analysis_ts_modeling
 
-**uni_bi-variate_analysis_ts_modeling** shows some work I was doing back in 2016 covering..
+**uni_bi-variate_analysis_ts_modeling** shows some work I was doing back in 2016 using website data to cover..
 
 1. Define the business question that you would like to answer with data? _As a planner/forecaster how can I leverage this data?_
 2. Define the ideal data set (ie the data set that you would collect if time and money were no object) _A dataset that contains the media spend, media results, website data & e-comm data_
